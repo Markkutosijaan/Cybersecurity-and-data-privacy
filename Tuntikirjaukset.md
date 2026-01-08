@@ -1,5 +1,5 @@
 # Logbook
 
-| Date  | Used hours | Subject(s) |  Outcome(s) |
+| päivämäärä | Tunnit | Subject(s) |  Outcome(s) |
 | :---         |     :---:      |     :---:      |     :---:      |
-| 23.10.2025 | 4 | Preparing the course | Updated content |
+| 8.1.2026 | 3 | Kappaleet 1-2 | tehty |
