@@ -8,4 +8,5 @@
 | 15.1.2026 | 1 | loppukoe ja kurssin arviointi | tehty |
 | 26.1.2026 | 4 | portswigger tehtävien teko | tehty |
 | 26.1.2026 | 1 | portswigger raportin teko | tehty |
+| 2.2.2026 | 4 | The Booking system project → Phase 1 | tehty |
 
