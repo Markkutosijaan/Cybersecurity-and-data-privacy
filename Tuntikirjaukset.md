@@ -11,4 +11,5 @@
 | 2.2.2026 | 4 | The Booking system project → Phase 1 | tehty |
 | 11.2.2026 | 5 | The Booking system project → Phase 1 part 2 | tehty |
 | 18.2.2026 | 6 | The Booking system project → Phase 2 ja portswigger harjoituksia| tehty |
+| 10.3.2026 | 4 | portswigger raportin teko | tehty |
 
