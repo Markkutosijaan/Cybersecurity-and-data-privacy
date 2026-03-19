@@ -13,4 +13,5 @@
 | 18.2.2026 | 6 | The Booking system project → Phase 2 ja portswigger harjoituksia| tehty |
 | 10.3.2026 | 4 | portswigger tehtävien tekoa | tehty |
 | 13.3.2026 | 3 | portswigger tehtävien tekoa | tehty |
+| 16.3.2026 | 2 | portswigger tehtävien tekoa | tehty |
 | 18.3.2026 | 6 | portswigger tehtävien tekoa | tehty |
