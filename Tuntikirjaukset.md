@@ -19,3 +19,5 @@
 | 19.3.2026 | 5 | portswigger tehtävien tekoa | tehty |
 | 19.3.2026 | 1 | arviointiin perehtymistä | tehty |
 | 20.3.2026 | 5 | portswigger tehtävien tekoa | tehty |
+| 21.3.2026 | 2 | Loppuraportin teko | tehty |
+
